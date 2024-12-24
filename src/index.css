@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f8ff;
+}
+
+h1 {
+  color: #333;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+ul {
+  text-align: left;
+  margin: 0 auto;
+  display: inline-block;
+}
